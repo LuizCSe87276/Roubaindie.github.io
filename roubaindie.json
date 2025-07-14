@@ -1,19 +1,9 @@
-{"name":"Roubaindie",
+{"name":"roubaindie",
 	"downloads":[
 		{
 			"title":"Undertale",
 			"uris":["https://gofile.io/d/Luk2iL"],
 			"uploadDate":"2023-11-07T23:00:00.000Z",
-			"fileSize":"165.9 MB"},
-        {
-			"title":"Project Zomboid",
-			"uris":["XX"],
-			"uploadDate":"2024-XX-XXT23:00:00.000Z",
-			"fileSize":"XX GB"},
-            {
-			"title":"Bloons TD 6",
-			"uris":["XX"],
-			"uploadDate":"2024-XX-XXT23:00:00.000Z",
-			"fileSize":"XX GB"}    
-	]
-}
+			"fileSize":"165.9 MB"}
+        ]
+    }        
